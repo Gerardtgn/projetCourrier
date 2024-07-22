@@ -1,0 +1,12 @@
+vendor/
+node_modules/
+.idea
+bootstrap/compiled.php
+app/storage/
+bootstrap/cache/
+.env.*.php
+.env.php
+.env
+*.DS_Store
+.phpunit.result.cache
+composer.lock
